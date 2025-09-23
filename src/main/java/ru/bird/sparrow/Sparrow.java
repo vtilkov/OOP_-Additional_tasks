@@ -1,6 +1,8 @@
-package ru;
+package ru.bird.sparrow;
 
-class Sparrow extends Bird{
+import ru.bird.bird.Bird;
+
+public class Sparrow extends Bird {
     public Sparrow() {
         super("Воробей");
     }

@@ -1,7 +1,9 @@
-package ru;
+package ru.bird.parrot;
+
+import ru.bird.bird.*;
 import java.util.Random;
 
-class Parrot extends Bird {
+public class Parrot extends Bird {
     private String text;
     private Random random;
 

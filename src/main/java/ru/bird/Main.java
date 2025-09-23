@@ -1,4 +1,8 @@
-package ru;
+package ru.bird;
+
+import ru.bird.sparrow.Sparrow;
+import ru.bird.parrot.Parrot;
+import ru.bird.cuckoo.Cuckoo;
 
 public class Main {
     public static void main(String[] args) {

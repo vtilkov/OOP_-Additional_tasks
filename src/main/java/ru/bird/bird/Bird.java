@@ -1,6 +1,6 @@
-package ru;
+package ru.bird.bird;
 
-abstract class Bird {
+public abstract class Bird {
     protected String name;
 
     public Bird(String name) {

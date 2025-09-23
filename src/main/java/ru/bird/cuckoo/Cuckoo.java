@@ -1,8 +1,9 @@
-package ru;
+package ru.bird.cuckoo;
 
+import ru.bird.bird.*;
 import java.util.Random;
 
-class Cuckoo extends Bird {
+public class Cuckoo extends Bird {
     private Random random;
 
     public Cuckoo() {
